@@ -3,6 +3,9 @@
 	border: 1px soild rgb(0,0,0);
 	padding: 1px;
 }
+td{
+	border: 1px soild rgb(0,0,0);
+}
 .green{
 	background-color: green;
 }
