@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
-table{
-	border: 1px soild black;
+.middle{
+	border: 1px soild rgb(0,0,0);
 	padding: 1px;
 }
 .green{
